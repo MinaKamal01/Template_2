@@ -1206,6 +1206,7 @@ footer .footer .fot-bottom span {
     .sec-3 .projects {
         display: flex;
         flex-direction: column;
+        width: 100%;
     }
 
     .sec-3 .projects .project {
