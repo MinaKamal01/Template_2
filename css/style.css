@@ -1296,7 +1296,7 @@ footer .footer .fot-bottom span {
     }
 }
 
-@media screen and (max-width:980px) {
+@media screen and (min-width:769px) and (max-width:980px) {
     header {
         width: 100%;
         display: flex;
